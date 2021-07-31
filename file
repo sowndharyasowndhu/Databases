@@ -1,0 +1,30 @@
+package com.databases
+class Main {
+public static void Main[String[] args] {
+[{
+"name": "Shankar",
+"age": "10",
+"dob": "30-1-2010",
+"firstName": "Shankar",
+"lastName": "S",
+"more": {
+"address_line1": "Sakthi nagar",
+"address_line2": "Karur main road",
+"address_line3": "Karur",
+"phone": "6381656570"
+}
+},{
+"name": "Vimal",
+"age": "20",
+"dob": "10-8-2001",
+"firstName": "Vimal",
+"lastName": "K",
+"more": {
+"address_line1": "Kamarajar Street",
+"address_line2": "Mettur road",
+"address_line3": "Erode",
+"phone": "9944556601"
+}
+}]
+}
+}
